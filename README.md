@@ -1,6 +1,8 @@
 # Caesar-Cipher-and-Vigenere-Cipher
 This Java project provides implementations of Caesar Cipher, Caesar Cracker, Vigenere Cipher, and Vigenere Breaker. These ciphers are used for encryption and decryption of text messages.
 
+This is a Coursera course assignment. Course: Java Programming: Arrays, Lists, and Structured Data https://www.coursera.org/learn/java-programming-arrays-lists-data?specialization=object-oriented-programming
+
 ## Features
 1. Caesar Cipher: Simple substitution cipher that replaces each letter in the plaintext by a letter some fixed number of positions down the alphabet.
 2. Caesar Cracker: Decrypts Caesar Cipher encrypted messages by finding the most common character and assuming it is the encrypted version of a known common character (e.g., 'e' in English).
